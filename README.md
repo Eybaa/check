@@ -37,6 +37,6 @@ Docker
 🔭 I’m currently working on Web & Mobile Development
 🌱 I’m currently learning Machine learning
 💬 Ask me about Any thing related to Computer Science
-📫 How to reach me: @Jon21paulos on Linkedin
+📫 How to reach me: @MarshalEyu on telgram
 ⚡ Fun fact: Big Fan of the ⚡ emoji
 visitors Years Badge Repos Badge
